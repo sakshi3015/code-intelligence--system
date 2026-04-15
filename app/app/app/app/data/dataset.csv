@@ -1,0 +1,12 @@
+code,tag
+def binary_search(arr,x): low=0,searching
+def linear_search(arr,x): for i in arr,searching
+def bubble_sort(arr): for i in range(len(arr)),sorting
+def quick_sort(arr): pivot=arr[0],sorting
+def merge_sort(arr): mid=len(arr)//2,sorting
+def fact(n): return n*fact(n-1),recursion
+def fibonacci(n): return fibonacci(n-1)+fibonacci(n-2),recursion
+dp=[0,1],dynamic programming
+for i in range(n): print(i),loops
+while True: break,loops
+if x>0: print(x),condition
